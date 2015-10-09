@@ -3,4 +3,47 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Buttons labels-->
+    <!-- Row 01-->
+    <string name="MemoryClear">MC</string>
+    <string name="MemoryAdd">M+</string>
+    <string name="MemorySubt">M-</string>
+    <string name="MemoryRecall">MR</string>
+    <string name="RandomNum">RAND</string>
+
+    <!-- Row 02-->
+    <string name="Square">x²</string>
+    <string name="SquareRoot">√</string>
+    <string name="Percent">%</string>
+    <string name="OneOverX">1/x</string>
+    <string name="Factorial">!</string>
+
+    <!-- Row 03-->
+    <string name="Division">÷</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="AC">AC</string>
+
+    <!-- Row 04-->
+    <string name="Multiplication">×</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Backspace">⌫</string>
+
+    <!-- Row 05-->
+    <string name="Subtraction">-</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Help">☻</string>
+
+    <!-- Row 06-->
+    <string name="Addition">+</string>
+    <string name="DecimalPoint">.</string>
+    <string name="Zero">0</string>
+    <string name="ChangeSign">±</string>
+    <string name="Equal">＝</string>
 </resources>
