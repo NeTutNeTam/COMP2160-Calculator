@@ -23,18 +23,8 @@
             android:textSize="100sp"
             android:hint="0"
             android:layout_gravity="bottom"
-            android:textColor="#FFFFFFFF" />
-
-        <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:id="@+id/textView"
-            android:textSize="30sp"
-            android:hint="history"
-            android:gravity="right"
-            android:layout_marginTop="20dp"
-            android:textColor="#FFFFFFFF" />
+            android:textColor="#FFFFFFFF"
+            android:maxLength="10" />
 
     </LinearLayout>
 
@@ -44,7 +34,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/row01"
         android:layout_weight="1"
-        android:layout_marginTop="30dp">
+        android:layout_marginTop="20dp">
 
         <Button
             android:layout_width="match_parent"
@@ -140,7 +130,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/OneOverX"
+            android:text="@string/Inverse"
             android:id="@+id/button09"
             android:layout_weight="1"
             android:background="@drawable/calc_buttons"

@@ -16,8 +16,8 @@
     <string name="Square">x²</string>
     <string name="SquareRoot">√</string>
     <string name="Percent">%</string>
-    <string name="OneOverX">1/x</string>
-    <string name="Factorial">!</string>
+    <string name="Inverse">1/x</string>
+    <string name="Factorial">x!</string>
 
     <!-- Row 03-->
     <string name="Division">÷</string>
